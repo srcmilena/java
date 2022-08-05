@@ -1,2 +1,2 @@
-# Exercícios de Java
-Repositório criado com a função de armazenamento de exercícios de Java.
+# Java Exercises
+Repository created to store Java exercises.
